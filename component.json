@@ -1,0 +1,8 @@
+{
+  "name": "bower-jquery-autocomplete",
+  "version": "1.1.0",
+  "main": "./jquery.autocomplete.js",
+  "dependencies": {
+    "jquery": "1.8.3"
+  }
+}
